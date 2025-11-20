@@ -1,1 +1,2 @@
 # Telecom-Customer
+This project analyzes 7,000+ telecom customer records to understand customer behavior and predict churn. It explores 20+ demographic and service-related features, identifies patterns in customer retention, and builds ML models to classify whether a customer will leave the service. The analysis highlights key factors such as tenure, contract type, monthly charges, internet service, and support usage.
